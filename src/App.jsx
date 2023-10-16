@@ -1,6 +1,7 @@
 import React from "react";
-import Card from "./components/Card.jsx"
-import Rate from "./components/Rate.jsx"
+import Card from "./components/Card"
+import './components/CardStyle.scss'
+
 
 function App() {
   return ( 
