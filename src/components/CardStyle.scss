@@ -1,0 +1,21 @@
+figure {
+display: flex;
+flex-direction: column;
+border-style: solid;
+border-radius: 20px;
+text-align: center;
+}
+
+h1{
+font-size: 2rem ;
+}
+
+img {
+width: 50%;
+margin: auto;
+}
+
+.rating {
+margin: 10%;
+padding: 5%;
+}
