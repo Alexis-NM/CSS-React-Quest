@@ -1,3 +1,9 @@
+Projet réalisé à l'aide de SASS. Bonnes performances et fonctionnement très proche du CSS.
+
+Utiliser la ligne de commande :
+
+npm install sass
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
